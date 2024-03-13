@@ -1,0 +1,15 @@
+C:\Users\Мария\Desktop\GeekBrains\Контрольная работа по основному блоку\obj\Debug\net6.0\Контрольная работа по основному блоку.csproj.AssemblyReference.cache
+C:\Users\Мария\Desktop\GeekBrains\Контрольная работа по основному блоку\obj\Debug\net6.0\Контрольная работа по основному блоку.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\Desktop\GeekBrains\Контрольная работа по основному блоку\obj\Debug\net6.0\Контрольная работа по основному блоку.AssemblyInfoInputs.cache
+C:\Users\Мария\Desktop\GeekBrains\Контрольная работа по основному блоку\obj\Debug\net6.0\Контрольная работа по основному блоку.AssemblyInfo.cs
+C:\Users\Мария\Desktop\GeekBrains\Контрольная работа по основному блоку\obj\Debug\net6.0\Контрольная работа по основному блоку.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\GeekBrains\Контрольная работа по основному блоку\bin\Debug\net6.0\Контрольная работа по основному блоку.exe
+C:\Users\Мария\Desktop\GeekBrains\Контрольная работа по основному блоку\bin\Debug\net6.0\Контрольная работа по основному блоку.deps.json
+C:\Users\Мария\Desktop\GeekBrains\Контрольная работа по основному блоку\bin\Debug\net6.0\Контрольная работа по основному блоку.runtimeconfig.json
+C:\Users\Мария\Desktop\GeekBrains\Контрольная работа по основному блоку\bin\Debug\net6.0\Контрольная работа по основному блоку.dll
+C:\Users\Мария\Desktop\GeekBrains\Контрольная работа по основному блоку\bin\Debug\net6.0\Контрольная работа по основному блоку.pdb
+C:\Users\Мария\Desktop\GeekBrains\Контрольная работа по основному блоку\obj\Debug\net6.0\Контрольная работа по основному блоку.dll
+C:\Users\Мария\Desktop\GeekBrains\Контрольная работа по основному блоку\obj\Debug\net6.0\refint\Контрольная работа по основному блоку.dll
+C:\Users\Мария\Desktop\GeekBrains\Контрольная работа по основному блоку\obj\Debug\net6.0\Контрольная работа по основному блоку.pdb
+C:\Users\Мария\Desktop\GeekBrains\Контрольная работа по основному блоку\obj\Debug\net6.0\Контрольная работа по основному блоку.genruntimeconfig.cache
+C:\Users\Мария\Desktop\GeekBrains\Контрольная работа по основному блоку\obj\Debug\net6.0\ref\Контрольная работа по основному блоку.dll
